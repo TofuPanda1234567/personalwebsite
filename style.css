@@ -9,7 +9,7 @@
   height: 100px;
   width: full;
   color: white;
-  font-size: 28px;
+  font-size: 20px;
 }
 
 .menu {
@@ -37,4 +37,25 @@ a {
   font-size: 20px;
   font-weight: bold;
   padding-top: 15%;
+}
+
+.socials {
+  display: inline-block;
+  position: relative;
+}
+
+.socContent {
+  display: none;
+  position: absolute;
+  background-color: #004c8f;
+  padding: 12px 16px;
+  padding-bottom: 8px;
+  color: white;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  font-size: 16px;
+  text-align: center;
+}
+
+.socials:hover .socContent {
+  display: block;
 }
