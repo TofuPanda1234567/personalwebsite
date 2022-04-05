@@ -59,3 +59,6 @@ a {
 .socials:hover .socContent {
   display: block;
 }
+.socContent a:hover {
+  color: #DCDCDC;
+}
