@@ -88,3 +88,7 @@ a {
 .emailButton:hover {
   cursor: pointer;
 }
+
+#imgMe {
+  border-radius: 50%;
+}
