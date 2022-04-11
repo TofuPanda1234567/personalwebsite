@@ -132,7 +132,7 @@ a {
   border: 3px solid black;
   border-radius: 30px;
   margin-left: 35%;
-  vertical-align: auto;
+  margin-top: -25%;
   margin-right: 15px;
   text-align: center;
 }
