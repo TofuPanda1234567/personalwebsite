@@ -48,7 +48,8 @@ a {
   display: none;
   position: absolute;
   background-color: #004c8f;
-  padding: 12px 18px;
+  padding: 12px 16px;
+  width: 20px;
   padding-bottom: 8px;
   color: white;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
