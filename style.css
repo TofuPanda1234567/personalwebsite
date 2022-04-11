@@ -127,8 +127,8 @@ a {
 }
 
 .indexBox {
-  width: 60vw;
-  height: 70vh;
+  max-width: max-content;
+  max-height: max-content;
   border: 3px solid black;
   border-radius: 30px;
   margin-left: 35%;
