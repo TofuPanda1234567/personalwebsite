@@ -127,11 +127,10 @@ a {
 }
 
 .indexBox {
-  /* display: flex; */
   width: 60vw;
   height: 70vh;
   border: 3px solid black;
   border-radius: 30px;
   margin-left: 35%;
-  margin-top: -20%;
+  margin-top: -30%;
 }
