@@ -95,11 +95,11 @@ a {
 }
 
 #imgMe {
-  border-radius: 50%;
+  border-radius: 10%;
   margin-left: 10%;
   margin-top: 8%;
-  width: 30vh;
-  height: 30vh;
+  /* width: 20vh;
+  height: 20vh; */
 }
 
 .nameUnderImg {
