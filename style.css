@@ -101,7 +101,7 @@ a {
 .nameUnderImg {
   margin-left: 10%;
   margin-top: 2%;
-  margin-bottom: 1%;
+  /* margin-bottom: 1%; */
   font-family: "Times New Roman", Arial;
   font-size: 24px;
   width: 30vw;
