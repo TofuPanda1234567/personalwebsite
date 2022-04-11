@@ -26,6 +26,7 @@ a {
 .menubar {
   display: inline;
   padding-right: 15px;
+  font-family: "Times New Roman";
 }
 
 .menubar:hover {
