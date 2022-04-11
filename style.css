@@ -92,9 +92,17 @@ a {
 #imgMe {
   border-radius: 50%;
   margin-left: 10%;
-  margin-top: 10%;
+  margin-top: 6%;
   width: 150px;
   height: 150px;
+}
+
+.nameUnderImg {
+  margin-left: 10%;
+  margin-top: 10%;
+  font-family: Arial;
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 .imgSocials1 {
