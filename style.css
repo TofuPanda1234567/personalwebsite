@@ -97,8 +97,13 @@ a {
   height: 150px;
 }
 
-.imgSocials {
+.imgSocials1 {
   padding-left: 10%;
+  padding-top: 18%;
+  display: inline;
+}
+.imgSocials {
+  padding-left: 3%;
   padding-top: 18%;
   display: inline;
 }
