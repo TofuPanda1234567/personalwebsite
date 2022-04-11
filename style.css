@@ -48,12 +48,12 @@ a {
   display: none;
   position: absolute;
   background-color: #004c8f;
-  padding: 15px 20px;
+  padding: 10px 15px;
   padding-bottom: 8px;
   width: 60px;
   color: white;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  font-size: 12px;
+  font-size: 14px;
   text-align: center;
 }
 
