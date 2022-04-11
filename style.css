@@ -117,3 +117,9 @@ a {
   padding-top: 18%;
   display: inline;
 }
+.imgSocials1:hover {
+  opacity: 80%;
+}
+.imgSocials:hover {
+  opacity: 80%;
+}
