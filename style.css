@@ -122,9 +122,9 @@ a {
 
 .indexBox {
   width: 700px;
-  height: 700px;
+  height: 400px;
   border: 3px solid black;
   border-radius: 30px;
-  margin-left: 50%;
+  margin-left: 20%;
   margin-top: -20%;
 }
