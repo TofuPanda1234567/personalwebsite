@@ -17,8 +17,14 @@
 }
 
 .menu {
-  padding-left: 70%;
+  padding-left: 55%;
   padding-top: 30px;
+}
+
+.menuName {
+  font-size: 24px;
+  color: white;
+  padding-right: 5%;
 }
 
 a {
