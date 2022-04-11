@@ -111,17 +111,16 @@ a {
 .imgSocials1 {
   padding-left: 10%;
   padding-top: 18%;
+  width: 1vw;
+  height: 0.5vh;
   display: inline;
 }
 .imgSocials {
   padding-left: 1%;
   padding-top: 18%;
-  display: inline;
-}
-
-.logos {
   width: 1vw;
   height: 0.5vh;
+  display: inline;
 }
 
 .logos:hover {
