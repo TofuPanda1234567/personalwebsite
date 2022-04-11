@@ -13,7 +13,7 @@
 }
 
 .menu {
-  padding-left: 3%;
+  padding-right: 3%;
   padding-top: 30px;
 }
 
@@ -24,7 +24,7 @@ a {
 
 .menubar {
   display: inline;
-  padding-right: 15px;
+  padding-right: 90%;
 }
 
 .menubar:hover {
@@ -95,4 +95,10 @@ a {
   margin-top: 10%;
   width: 150px;
   height: 150px;
+}
+
+.underImg {
+  margin-left: 10%;
+  margin-top: 15%;
+  
 }
