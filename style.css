@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   font-family: "Times New Roman", Arial;
-  font-weight: none;
 }
 
 .header {
@@ -16,7 +15,6 @@
 .menu {
   padding-left: 3%;
   padding-top: 30px;
-  font-family: "Times New Roman";
 }
 
 a {
@@ -27,7 +25,6 @@ a {
 .menubar {
   display: inline;
   padding-right: 15px;
-  font-family: "Times New Roman";
 }
 
 .menubar:hover {
