@@ -18,13 +18,13 @@
 
 .menu {
   padding-left: 55%;
-  /* padding-top: 30px; */
+  padding-top: -10px;
 }
 
 .menuName {
   font-size: 24px;
   color: white;
-  padding-right: 5%;
+  padding-right: 10%;
   padding-top: 30px;
 }
 
