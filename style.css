@@ -99,10 +99,10 @@ a {
 
 .nameUnderImg {
   margin-left: 10%;
-  /* margin-top: 10%; */
-  font-family: Arial;
-  font-weight: bold;
-  font-size: 18px;
+  margin-top: 3%;
+  font-family: "Times New Roman", Arial;
+  /* font-weight: bold; */
+  font-size: 20px;
 }
 
 .imgSocials1 {
