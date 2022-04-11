@@ -122,17 +122,10 @@ a {
 
 .indexBox {
   display: flex;
-  width: 50%;
-  height: 100%;
+  width: 90vw;
+  height: 50vh;
   border: 3px solid black;
   border-radius: 30px;
   margin-left: 35%;
   margin-top: -20%;
-}
-
-/* Responsive layout - makes a one column layout instead of a two-column layout */
-@media (max-width: 800px) {
-  .indexBox {
-    flex: 100%;
-  }
 }
