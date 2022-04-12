@@ -48,7 +48,6 @@ a {
   margin-top: 7%;
   width: 32vh;
   height: 32vh;
-  background-color: inherit;
 }
 
 .nameUnderImg {
@@ -58,7 +57,6 @@ a {
   font-size: 28px;
   width: 30vw;
   height: 10vh;
-  background-color: inherit;
 }
 
 .imgSocials1 {
@@ -67,23 +65,14 @@ a {
   width: 1vw;
   height: 0.5vh;
   display: inline;
-  background-color: inherit;
 }
+
 .imgSocials {
   padding-left: 1%;
   padding-top: 12%;
   width: 1vw;
   height: 0.5vh;
   display: inline;
-  background-color: inherit;
-}
-
-.socialArea {
-  background-color: inherit;
-}
-
-.dmSoc {
-  background-color: inherit;
 }
 
 .logos:hover {
@@ -98,13 +87,12 @@ a {
   margin-right: 35px;
   padding: 15px;
   text-align: center;
-  background-color: inherit;
 }
 
 .bio {
   padding: 20px;
   font-size: 24px;
-  background-color: inherit;
+
 }
 
 
@@ -124,7 +112,7 @@ a {
   padding-bottom: 8px;
   width: 60px;
   color: white;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   font-size: 12px;
   text-align: center;
 }
@@ -132,6 +120,7 @@ a {
 .socials:hover .socContent {
   display: block;
 }
+
 .socContent a:hover {
   color: #DCDCDC;
 }
@@ -148,6 +137,7 @@ a {
   font-size: 25px;
   font-family: Arial;
 }
+
 .emailButton {
   margin: auto;
   margin-top: 20px;
@@ -161,18 +151,7 @@ a {
   width: 100px;
   height: 20px;
 }
+
 .emailButton:hover {
   cursor: pointer;
-}
-
-/* DARK MODE */
-.dark-mode {
-  background-color: black;
-  color: white;
-}
-.dmButton {
-  text-align: center;
-  margin-left: 60%;
-  padding: 4px 8px;
-  background-color: #666;
 }
