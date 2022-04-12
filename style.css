@@ -10,12 +10,13 @@
   width: full;
   color: white;
   font-size: 20px;
+  margin-top: -1%;
   font-weight: lighter;
 }
 
 .menu {
   padding-left: 3%;
-  padding-top: 30px;
+  padding-top: 25px;
 }
 
 a {
