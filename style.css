@@ -95,6 +95,8 @@ a {
 
 }
 .bioHeader {
+  max-width: max-content;
+  max-height: max-content;
   margin-left: -80%;
   text-align: center;
   font-size: 30px;
