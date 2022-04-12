@@ -166,7 +166,7 @@ a {
 
 /* DARK MODE */
 .dark-mode {
-  background-color: inherit;
+  background-color: black;
   color: white;
 }
 .dmButton {
