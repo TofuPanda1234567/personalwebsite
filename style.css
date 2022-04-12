@@ -5,8 +5,8 @@
 }
 
 .header {
-  background: linear-gradient(#273be2, white);
-  height: 150px;
+  background: linear-gradient(#273be2, lightblue);
+  height: 100px;
   width: full;
   color: white;
   font-size: 26px;
