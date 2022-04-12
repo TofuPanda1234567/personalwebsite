@@ -5,15 +5,11 @@
 }
 
 .header {
-  background-color: #0074D9;
+  background-color: #FCFCFC;
   height: 100px;
   width: full;
   color: white;
   font-size: 24px;
-}
-
-.shadowbar {
-  box-shadow: 10px 10px 5px lightblue;
 }
 
 .menu {
