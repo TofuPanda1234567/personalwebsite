@@ -98,12 +98,13 @@ a {
   margin-right: 35px;
   padding: 15px;
   text-align: center;
+  background-color: inherit;
 }
 
 .bio {
   padding: 20px;
   font-size: 24px;
-
+  background-color: inherit;
 }
 
 
