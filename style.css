@@ -6,10 +6,11 @@
 
 .header {
   background-color: #555;
+  font-family: Forum;
   height: 100px;
   width: full;
   color: white;
-  font-size: 24px;
+  font-size: 25px;
 }
 
 .menu {
