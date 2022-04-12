@@ -166,11 +166,12 @@ a {
 
 /* DARK MODE */
 .dark-mode {
-  background-color: black;
+  background-color: inherit;
   color: white;
 }
 .dmButton {
   text-align: center;
   margin-left: 70%;
   padding: 4px 8px;
+  background: #666;
 }
