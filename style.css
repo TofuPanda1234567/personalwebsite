@@ -48,9 +48,6 @@ a {
   margin-top: 7%;
   width: 32vh;
   height: 32vh;
-  -webkit-box-shadow: 4px 4px 10px 0px rgba(200, 200, 200, 1);
-  -moz-box-shadow: 4px 4px 10px 0px rgba(200, 200, 200, 1);
-  box-shadow: 4px 4px 10px 0px rgba(200, 200, 200, 1);
   background-color: inherit;
 }
 
@@ -78,6 +75,10 @@ a {
   width: 1vw;
   height: 0.5vh;
   display: inline;
+  background-color: inherit;
+}
+
+.socialArea {
   background-color: inherit;
 }
 
