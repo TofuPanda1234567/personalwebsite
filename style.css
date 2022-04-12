@@ -1,12 +1,11 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: "Times New Roman", Arial;
+  font-family: Helvetica ,"Times New Roman", Arial;
 }
 
 .header {
   background-color: #555;
-  font-family: Forum;
   height: 100px;
   width: full;
   color: white;
