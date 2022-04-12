@@ -81,6 +81,10 @@ a {
   background-color: inherit;
 }
 
+.dmSoc {
+  background-color: inherit;
+}
+
 .logos:hover {
   opacity: 80%;
 }
@@ -166,6 +170,6 @@ a {
 }
 .dmButton {
   text-align: center;
-  margin-left: 80%;
-  padding: 8px 12px;
+  margin-left: 70%;
+  padding: 4px 8px;
 }
