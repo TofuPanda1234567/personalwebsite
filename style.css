@@ -118,6 +118,7 @@ a {
     margin-left: -25%;
   }
   #border {
+    display: contents;
     border-top: 2px black solid;
     position: relative;
   }
