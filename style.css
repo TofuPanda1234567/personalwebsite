@@ -110,7 +110,7 @@ a {
   .bioHeader, .bio, .indexBox {
     width: 100%;
     margin-left: 0.5%;
-    margin-top: 2%;
+    margin-top: 1%;
   }
   .header {
     width: 620px;
@@ -127,7 +127,7 @@ a {
 
   #border {
     display: block;
-    margin-top: 1%;
+    margin-top: 2%;
     width: 620px;
     border-top: 2px black solid;
     position: relative;
