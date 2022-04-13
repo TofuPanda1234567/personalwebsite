@@ -110,14 +110,16 @@ a {
   .bioHeader, .bio, .indexBox {
     width: 100%;
     margin-left: 0.5%;
-    /* text-align: left; */
+    text-align: left;
     margin-top: 1%;
   }
   .header {
     width: 620px;
   }
+
   .indexBox {
     width: 550px;
+    text-align: center;
     max-height: max-content;
   }
   #border {
