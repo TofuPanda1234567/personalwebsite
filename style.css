@@ -98,7 +98,9 @@ a {
   margin-left: -82%;
   text-align: center;
   font-size: 30px;
-  padding: 15px;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
 }
 
 
