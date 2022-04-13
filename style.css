@@ -15,6 +15,10 @@
   font-weight: lighter;
 }
 
+#border {
+  display: none;
+}
+
 .menu {
   padding-left: 3%;
   padding-top: 28px;
@@ -112,7 +116,10 @@ a {
   }
   .bioHeader {
     margin-left: -25%;
+  }
+  #border {
     border-top: 2px black solid;
+    position: relative;
   }
 }
 
