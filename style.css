@@ -108,6 +108,7 @@ a {
   }
   .header {
     width: full;
+    position: fixed;
   }
   .bioHeader {
     margin-left: -25%;
