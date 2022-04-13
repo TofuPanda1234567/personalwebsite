@@ -116,6 +116,10 @@ a {
   .header {
     width: 620px;
   }
+  .indexBox {
+    width: 550px;
+    max-height: max-content;
+  }
   #border {
     display: block;
     margin-top: 1%;
