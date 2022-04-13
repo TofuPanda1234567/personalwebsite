@@ -110,7 +110,6 @@ a {
   .bioHeader, .bio, .indexBox {
     width: 100%;
     margin-left: 0.5%;
-    text-align: left;
     margin-top: 1%;
   }
   .header {
@@ -119,9 +118,13 @@ a {
 
   .indexBox {
     width: 550px;
-    text-align: center;
     max-height: max-content;
+    text-align: center;
   }
+  .bioHeader {
+    text-align: left;
+  }
+
   #border {
     display: block;
     margin-top: 1%;
