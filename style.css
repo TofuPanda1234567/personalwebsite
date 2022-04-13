@@ -119,6 +119,7 @@ a {
   }
   #border {
     display: block;
+    width: 620px;
     border-top: 2px black solid;
     position: relative;
   }
