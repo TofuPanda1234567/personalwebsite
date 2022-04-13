@@ -105,11 +105,11 @@ a {
   /* For mobile phones: */
   .bioHeader, .bio, .indexBox {
     width: 100%;
-    margin-top: -40%;
+    margin-top: 40%;
   }
   .header {
     width: full;
-    position: absolute;
+    position: relative;
   }
   .bioHeader {
     margin-left: -25%;
