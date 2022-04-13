@@ -9,7 +9,7 @@
 .header {
   background-color: #3c4464;
   height: 90px;
-  width: full;
+  width: 100vw;
   color: white;
   font-size: 24px;
   font-weight: lighter;
@@ -105,10 +105,10 @@ a {
   /* For mobile phones: */
   .bioHeader, .bio, .indexBox {
     width: 100%;
-    margin-top: 40%;
+    margin-top: 20%;
   }
   .header {
-    width: full;
+    width: 100vw;
     position: relative;
   }
   .bioHeader {
