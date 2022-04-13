@@ -109,16 +109,15 @@ a {
   /* For mobile phones: */
   .bioHeader, .bio, .indexBox {
     width: 100%;
+    margin-left: -80%;
     margin-top: 1%;
   }
   .header {
     width: 620px;
   }
-  .bioHeader {
-    margin-left: -25%;
-  }
   #border {
     display: block;
+    margin-top: 1%;
     width: 620px;
     border-top: 2px black solid;
     position: relative;
