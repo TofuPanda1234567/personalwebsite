@@ -103,8 +103,14 @@ a {
 
 @media only screen and (max-width: 620px) {
   /* For mobile phones: */
-  .bioHeader, .bio, .indexBox, .header {
+  .bioHeader, .bio, .indexBox {
     width: 100%;
+  }
+  .header {
+    width: full;
+  }
+  .bio {
+    margin-left: -25%;
   }
 }
 
