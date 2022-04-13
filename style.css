@@ -119,7 +119,7 @@ a {
   }
   #border {
     display: block;
-    width: full;
+    width: 110%;
     border-top: 2px black solid;
     position: relative;
   }
