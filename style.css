@@ -111,8 +111,8 @@ a {
     width: 620px;
   }
   .bioHeader {
-    /* margin-left: -90%; */
-    border-top: 2px solid black
+    margin-left: -25%;
+    border-top: 2px black solid;
   }
 }
 
