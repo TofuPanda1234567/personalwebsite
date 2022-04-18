@@ -146,10 +146,9 @@ a {
 
 /* PROJECTS ON HOME PAGE */
 .projectsHeader {
-  margin-top: 25px;
+  margin-top: 4%;
   margin-left: 6%;
   font-size: 30px;
-  padding: 30px;
 }
 .projectBar {
   display: inline;
