@@ -150,6 +150,8 @@ a {
   margin-left: 6%;
   margin-bottom: 1%;
   font-size: 30px;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
 }
 .projectBar {
   display: inline;
