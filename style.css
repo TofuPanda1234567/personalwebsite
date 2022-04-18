@@ -144,6 +144,22 @@ a {
 }
 
 
+/* PROJECTS ON HOME PAGE */
+.projectsHeader {
+  font-size: 30px;
+  padding: 15px;
+}
+.projectBar {
+  display: inline;
+}
+.personalWeb {
+  font-size: 20px;
+  padding-right: 30px;
+}
+.hexcolor {
+  font-size: 20px;
+}
+
 /* SOCIAL BAR */
 
 .socials {
