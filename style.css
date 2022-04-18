@@ -148,10 +148,12 @@ a {
 .projectsHeader {
   margin-top: 4%;
   margin-left: 6%;
+  text-decoration: underline;
   font-size: 30px;
 }
 .projectBar {
   display: inline;
+  margin-top: 1%;
 }
 .personalWeb {
   margin-left: 6%;
