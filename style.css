@@ -146,7 +146,7 @@ a {
 
 /* PROJECTS ON HOME PAGE */
 .projectsHeader {
-  margin-top: 6%;
+  margin-top: 8%;
   margin-left: 6%;
   margin-bottom: 1%;
   font-size: 30px;
@@ -155,6 +155,7 @@ a {
 }
 .projectBar {
   display: inline;
+  margin-bottom: 2%;
 }
 .personalWeb {
   margin-left: 6%;
