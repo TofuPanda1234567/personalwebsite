@@ -232,6 +232,7 @@ a {
 }
 
 .footer {
+  margin-top: 15%;
   position: relative;
   left: 0;
   bottom: 0;
@@ -239,5 +240,8 @@ a {
   width: 100%;
   background-color: #3c4464;
   color: white;
+}
+.footP {
   text-align: center;
+  margin-top: 50%;
 }
