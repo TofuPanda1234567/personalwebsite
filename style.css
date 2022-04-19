@@ -161,7 +161,7 @@ a {
 }
 .projectBar {
   display: inline;
-  text-align: center;
+  margin-left: 50%;
 }
 .personalWeb {
   margin-left: 6%;
