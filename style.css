@@ -151,6 +151,7 @@ a {
 
 /* PROJECTS ON HOME PAGE */
 .projectsHeader {
+  padding-top: 2%;
   margin-top: 12%;
   margin-left: 6%;
   margin-bottom: 1%;
@@ -159,7 +160,7 @@ a {
   text-decoration-thickness: 2px;
 }
 .projectBar {
-  display: inline-block;
+  display: inline;
 }
 .personalWeb {
   margin-left: 6%;
