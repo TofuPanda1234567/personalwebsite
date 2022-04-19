@@ -153,14 +153,15 @@ a {
 .projectsHeader {
   padding-top: 2%;
   margin-top: 12%;
-  margin-left: 6%;
   margin-bottom: 1%;
   font-size: 30px;
   text-decoration: underline;
   text-decoration-thickness: 2px;
+  text-align: center;
 }
 .projectBar {
   display: inline;
+  left: 50%;
 }
 .personalWeb {
   margin-left: 6%;
