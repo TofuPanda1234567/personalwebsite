@@ -8,6 +8,7 @@
 
 #pPage {
   background: #DEE4E7;
+  padding-top: 15px;
 }
 
 .header {
@@ -150,7 +151,7 @@ a {
 
 /* PROJECTS ON HOME PAGE */
 .projectsHeader {
-  margin-top: 10%;
+  margin-top: 12%;
   margin-left: 6%;
   margin-bottom: 1%;
   font-size: 30px;
@@ -158,7 +159,7 @@ a {
   text-decoration-thickness: 2px;
 }
 .projectBar {
-  display: inline;
+  display: block;
 }
 .personalWeb {
   margin-left: 6%;
