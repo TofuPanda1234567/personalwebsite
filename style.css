@@ -232,9 +232,10 @@ a {
 }
 
 .footer {
-  position: fixed;
+  position: sticky;
   left: 0;
   bottom: 0;
+  height: 15px;
   width: 100%;
   background-color: #3c4464;
   color: white;
