@@ -6,6 +6,10 @@
   background-color: inherit;
 }
 
+#pPage {
+  background: #DEE4E7;
+}
+
 .header {
   background-color: #3c4464;
   height: 90px;
