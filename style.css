@@ -8,7 +8,7 @@
 
 #pPage {
   background: #DEE4E7;
-  padding-top: 15px;
+  margin-top: 15px;
 }
 
 .header {
@@ -159,7 +159,7 @@ a {
   text-decoration-thickness: 2px;
 }
 .projectBar {
-  display: block;
+  display: inline-block;
 }
 .personalWeb {
   margin-left: 6%;
