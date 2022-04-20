@@ -6,7 +6,7 @@
   background-color: inherit;
 }
 
-#pPage {
+#pBody {
   background: #DEE4E7;
   margin-top: 15px;
 }
@@ -232,7 +232,7 @@ a {
 }
 
 .footer {
-  margin-top: 15%;
+  margin-top: 5%;
   position: relative;
   left: 0;
   bottom: 0;
