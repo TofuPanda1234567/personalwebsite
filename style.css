@@ -8,6 +8,7 @@
 
 #pBody {
   background: #DEE4E7;
+  width: 100vw;
 }
 
 .header {
@@ -161,6 +162,7 @@ a {
 .projectBar {
   display: inline;
   margin-left: 33%;
+  width: auto;
 }
 .personalWeb {
   margin-left: 6%;
@@ -236,7 +238,7 @@ a {
   left: 0;
   bottom: 0;
   height: 40px;
-  width: 100%;
+  width: 100vw;
   background-color: #3c4464;
   color: white;
 }
