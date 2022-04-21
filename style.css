@@ -4,12 +4,12 @@
   font-family: "Times New Roman", Arial;
   color: inherit;
   background-color: inherit;
-  width: 100%
 }
 
 #pBody {
   background: #DEE4E7;
   width: 100vw;
+  position: relative;
 }
 
 .header {
