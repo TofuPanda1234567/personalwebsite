@@ -237,7 +237,7 @@ a {
   position: relative;
   left: 0;
   bottom: 0;
-  height: 40px;
+  height: 50px;
   width: 100vw;
   background-color: #3c4464;
   color: white;
@@ -245,5 +245,5 @@ a {
 .footP {
   text-align: center;
   margin-top: 40%;
-  line-height: 40px;
+  line-height: 50px;
 }
