@@ -244,5 +244,6 @@ a {
 }
 .footP {
   text-align: center;
-  top: 50%;
+  margin-top: 40%;
+  line-height: 40px;
 }
