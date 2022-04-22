@@ -148,7 +148,7 @@ a {
   max-width: 20%;
   max-height: 20%;
   border: 2px solid black;
-  margin-left: 15%;
+  margin-left: 20%;
   display: none;
 }
 .personalWeb:hover + .personalWebImage {
