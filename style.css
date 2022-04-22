@@ -147,7 +147,7 @@ a {
     border-top: 2px black solid;
     position: relative;
   }
-  .pBody {
+  #pBody {
     width: 620px;
   }
 }
