@@ -165,26 +165,31 @@ a {
   margin-left: 15%;
   width: auto;
 }
+/* PERSONAL WEB */
 .personalWeb {
   margin-left: 6%;
   font-size: 20px;
+}
+.pWebDiv {
   margin-bottom: 10px;
 }
 
-.pWeb {
-  margin-bottom: 10px;
-}
-
-
+/* HEX COLOR GENERATOR */
 .hexcolor {
   margin-left: 6%;
   font-size: 20px;
+}
+.hexColorDiv {
   margin-bottom: 10px;
 }
+
+/* PLACEHOLDER */
 .placeholder {
   margin-left: 6%;
   font-size: 20px;
-  margin-bottom: 10px;
+}
+.placeholderDiv {
+  margin-bottom: 10px
 }
 
 /* SOCIAL BAR */
