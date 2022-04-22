@@ -168,19 +168,22 @@ a {
 .personalWeb {
   margin-left: 6%;
   font-size: 20px;
-  padding-right: 2%;
   margin-bottom: 10px;
 }
+
+.pWeb {
+  margin-bottom: 10px;
+}
+
+
 .hexcolor {
   margin-left: 6%;
   font-size: 20px;
-  padding-right: 2%;
   margin-bottom: 10px;
 }
 .placeholder {
   margin-left: 6%;
   font-size: 20px;
-  padding-right: 2%;
   margin-bottom: 10px;
 }
 
