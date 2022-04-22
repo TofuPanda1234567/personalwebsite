@@ -184,6 +184,9 @@ a {
 .personalWeb:hover + .personalWebImage {
   display: block;
 }
+.personalWebImage:hover {
+  display: block;
+}
 
 /* HEX COLOR GENERATOR */
 .hexColor {
