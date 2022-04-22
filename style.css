@@ -192,11 +192,10 @@ a {
   margin-bottom: 45px
 }
 .placeholderImage {
-  width: 25vh;
-  height: 25vh;
+  max-width: 20%;
+  max-height: 20%;
   margin-top: -4%;
   border: 2px solid black;
-  border-radius: 15%;
   margin-left: 20%;
   display: none;
 }
