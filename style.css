@@ -150,7 +150,7 @@ a {
   max-width: 20%;
   max-height: 20%;
   border: 2px solid black;
-  margin-left: 20px;
+  margin-left: 20%;
   display: none;
 }
 .personalWeb:hover + .personalWebImage {
@@ -313,6 +313,14 @@ a {
   }
 
   .personalWebImage {
+    margin-left: 225px;
+  }
+
+  .hexColorImage {
+    margin-left: 225px;
+  }
+
+  .placeholderImage {
     margin-left: 225px;
   }
 
