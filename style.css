@@ -196,11 +196,11 @@ a {
   margin-bottom: 15px;
 }
 .hexColorImage {
-  width: 25vh;
-  height: 25vh;
+  max-width: 20%;
+  max-height: 20%;
   border: 2px solid black;
   border-radius: 15%;
-  margin-left: 8%;
+  margin-left: 6%;
   display: none;
 }
 .hexColor:hover + .hexColorImage {
