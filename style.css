@@ -174,8 +174,8 @@ a {
   margin-bottom: 15px;
 }
 .personalWebImage {
-  max-width: 25%;
-  max-height: 25%;
+  max-width: 15%;
+  max-height: 15%;
   border: 2px solid black;
   margin-left: 8%;
   display: none;
