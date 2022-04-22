@@ -120,41 +120,6 @@ a {
   font-size: 35px;
 }
 
-@media only screen and (max-width: 620px) {
-  /* For mobile phones: */
-  .bioHeader, .bio, .indexBox {
-    width: 100%;
-    margin-left: 0.5%;
-    margin-top: 1%;
-  }
-  .header {
-    width: 620px;
-  }
-
-  .indexBox {
-    width: 550px;
-    max-height: max-content;
-    text-align: center;
-  }
-  .bioHeader {
-    text-align: left;
-  }
-
-  #border {
-    display: block;
-    margin-top: 2%;
-    width: 620px;
-    border-top: 2px black solid;
-    position: relative;
-  }
-  #pBody {
-    width: 620px;
-  }
-  .footer {
-    width: 620px;
-  }
-}
-
 
 /* PROJECTS ON HOME PAGE */
 .projectsHeader {
@@ -303,7 +268,7 @@ a {
   left: 0;
   bottom: 0;
   height: 50px;
-  width: 1920px;
+  width: 100vw;
   background-color: #3c4464;
   color: white;
 }
@@ -311,4 +276,39 @@ a {
   text-align: center;
   margin-top: 40%;
   line-height: 50px;
+}
+
+@media only screen and (max-width: 620px) {
+  /* For mobile phones: */
+  .bioHeader, .bio, .indexBox {
+    width: 100%;
+    margin-left: 0.5%;
+    margin-top: 1%;
+  }
+  .header {
+    width: 620px;
+  }
+
+  .indexBox {
+    width: 550px;
+    max-height: max-content;
+    text-align: center;
+  }
+  .bioHeader {
+    text-align: left;
+  }
+
+  #border {
+    display: block;
+    margin-top: 2%;
+    width: 620px;
+    border-top: 2px black solid;
+    position: relative;
+  }
+  #pBody {
+    width: 620px;
+  }
+  .footer {
+    width: 620px;
+  }
 }
