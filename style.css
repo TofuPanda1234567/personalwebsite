@@ -207,6 +207,9 @@ a {
 .hexColor:hover + .hexColorImage {
   display: block;
 }
+.hexColorImage:hover {
+  display: block;
+}
 
 /* PLACEHOLDER */
 .placeholder {
@@ -225,6 +228,9 @@ a {
   display: none;
 }
 .placeholder:hover + .placeholderImage {
+  display: block;
+}
+.placeholderImage:hover {
   display: block;
 }
 
