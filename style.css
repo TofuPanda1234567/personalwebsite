@@ -171,8 +171,9 @@ a {
 .hexColorImage {
   max-width: 20%;
   max-height: 20%;
+  margin-top: -4%;
   border: 2px solid black;
-  margin-left: 6%;
+  margin-left: 25%;
   display: none;
 }
 .hexColor:hover + .hexColorImage {
@@ -193,9 +194,10 @@ a {
 .placeholderImage {
   width: 25vh;
   height: 25vh;
+  margin-top: -4%;
   border: 2px solid black;
   border-radius: 15%;
-  margin-left: 8%;
+  margin-left: 25%;
   display: none;
 }
 .placeholder:hover + .placeholderImage {
