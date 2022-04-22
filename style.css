@@ -174,10 +174,9 @@ a {
   margin-bottom: 15px;
 }
 .personalWebImage {
-  width: 30vh;
-  height: 20vh;
+  max-width: max-content;
+  max-height: max-content;
   border: 2px solid black;
-  border-radius: 15%;
   margin-left: 8%;
   display: none;
 }
