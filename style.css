@@ -174,8 +174,8 @@ a {
   margin-bottom: 15px;
 }
 .personalWebImage {
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
   border: 2px solid black;
   border-radius: 15%;
   margin-left: 8%;
@@ -186,12 +186,23 @@ a {
 }
 
 /* HEX COLOR GENERATOR */
-.hexcolor {
+.hexColor {
   margin-left: 6%;
   font-size: 20px;
 }
 .hexColorDiv {
   margin-bottom: 15px;
+}
+.hexColorImage {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  border-radius: 15%;
+  margin-left: 8%;
+  display: none;
+}
+.hexColor:hover + .hexColorImage {
+  display: block;
 }
 
 /* PLACEHOLDER */
@@ -201,6 +212,17 @@ a {
 }
 .placeholderDiv {
   margin-bottom: 15px
+}
+.placeholderImage {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  border-radius: 15%;
+  margin-left: 8%;
+  display: none;
+}
+.placeholder:hover + .placeholderImage {
+  display: block;
 }
 
 /* SOCIAL BAR */
