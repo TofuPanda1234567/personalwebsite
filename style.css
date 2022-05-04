@@ -183,6 +183,29 @@ a {
   display: block;
 }
 
+/* JAVASCRIPT QUIZ  */
+.quizWebsite {
+  margin-left: 6%;
+  font-size: 20px;
+}
+.quizDiv {
+  margin-bottom: 45px
+}
+.quizImage {
+  max-width: 20%;
+  max-height: 20%;
+  margin-top: -4%;
+  border: 2px solid black;
+  margin-left: 20%;
+  display: none;
+}
+.quizWebsite:hover + .quizImage {
+  display: block;
+}
+.quizImage:hover {
+  display: block;
+}
+
 /* PLACEHOLDER */
 .placeholder {
   margin-left: 6%;
