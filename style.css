@@ -173,7 +173,7 @@ a {
   max-height: 20%;
   margin-top: -4%;
   border: 2px solid black;
-  margin-left: 20%;
+  margin-left: 25%;
   display: none;
 }
 .hexColor:hover + .hexColorImage {
