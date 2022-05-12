@@ -204,6 +204,29 @@ a {
   display: block;
 }
 
+/* QUOTE GENERATOR */
+.quote {
+  margin-left: 6%;
+  font-size: 24px;
+}
+.quoteDiv {
+  margin-bottom: 45px;
+}
+.quoteImage {
+  max-width: 20%;
+  max-height: 20%;
+  margin-top: -4%;
+  border: 2px solid black;
+  margin-left: 25%;
+  display: none;
+}
+.quote:hover + .quoteImage {
+  display: block;
+}
+.quoteImage:hover {
+  display: block;
+}
+
 /* PLACEHOLDER */
 .placeholder {
   margin-left: 6%;
