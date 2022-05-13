@@ -227,6 +227,29 @@ a {
   display: block;
 }
 
+/* JS CLICKER GAME */
+.clicker {
+  margin-left: 6%;
+  font-size: 24px;
+}
+.clickerDiv {
+  margin-bottom: 45px;
+}
+.clickerImage {
+  max-width: 20%;
+  max-height: 20%;
+  margin-top: -4%;
+  border: 2px solid black;
+  margin-left: 25%;
+  display: none;
+}
+.clicker:hover + .clickerImage {
+  display: block;
+}
+.clickerImage:hover {
+  display: block;
+}
+
 /* PLACEHOLDER */
 .placeholder {
   margin-left: 6%;
