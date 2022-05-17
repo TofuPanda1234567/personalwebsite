@@ -1,6 +1,6 @@
-var projects = document.querySelector("#pPage");
+var projects = document.querySelector(".footP");
 var projectBtn = document.querySelector(".projectButton");
 
 projectBtn.addEventListener('click', (e) => {
-    projects.scrollIntoView(false, {behavior: "smooth"});
+    projects.scrollIntoView({behavior: "smooth"});
 });
