@@ -1,4 +1,4 @@
-var projects = document.querySelector("#pPage");
+var projects = document.querySelector("pBody");
 var email = document.querySelector(".cPage");
 var projectBtn = document.querySelector(".projectButton");
 var contactBtn = document.querySelector(".contactButton");

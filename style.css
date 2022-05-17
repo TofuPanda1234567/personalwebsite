@@ -11,6 +11,11 @@
   width: 100vw;
   position: relative;
 }
+.cBody {
+  background: white;
+  width: 100vw;
+  position: relative;
+}
 
 .header {
   background-color: #3c4464;
