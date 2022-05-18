@@ -1,5 +1,5 @@
 var projects = document.querySelector("pBody");
-var email = document.querySelector(".cPage");
+var email = document.querySelector(".cBody");
 var projectBtn = document.querySelector(".projectButton");
 var contactBtn = document.querySelector(".contactButton");
 var emailBtn = document.querySelector('.emailButton');
