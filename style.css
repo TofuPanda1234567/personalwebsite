@@ -10,7 +10,7 @@
   background: #D7E5F0;
   width: 100vw;
   position: relative;
-  margin-bottom: 5%;
+  /* margin-bottom: 5%; */
 }
 
 .cBody {
@@ -145,6 +145,9 @@ a {
 
 
 /* PROJECTS ON HOME PAGE */
+#pPage {
+  padding-bottom: 3%;
+}
 .projectsHeader {
   padding-top: 4%;
   margin-top: 12%;
@@ -375,7 +378,7 @@ a {
   text-align: center;
   font-weight: bold;
   border: 2px solid black;
-  width: 100px;
+  width: 140px;
   height: 20px;
 }
 
