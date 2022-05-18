@@ -5,9 +5,14 @@ var contactBtn = document.querySelector(".contactButton");
 var emailBtn = document.querySelector('.emailButton');
 
 
-// PROJECT BUTTON
+// SCROLL VIA PROJECT BUTTON
 projectBtn.addEventListener('click', function () {
     projects.scrollIntoView({behavior: "smooth", block: "end"});
+});
+
+// SCROLL VIA CONTACT BUTTON
+contactBtn.addEventListener('click', function () {
+  email.scrollIntoView({behavior: "smooth", block: "end"});
 });
 
 // EMAIL BUTTON
