@@ -11,10 +11,11 @@
   width: 100vw;
   position: relative;
 }
-.cPage {
+.cBody {
   margin-top: 5%;
   background: white;
   width: 100vw;
+  height: 100vh;
   position: relative;
 }
 
