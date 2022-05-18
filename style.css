@@ -10,9 +10,11 @@
   background: #D7E5F0;
   width: 100vw;
   position: relative;
+  margin-bottom: 5%;
 }
+
 .cBody {
-  margin-top: 5%;
+  /* margin-top: 5%; */
   background: white;
   width: 100vw;
   height: 100vh;
@@ -27,17 +29,18 @@
   font-size: 24px;
   font-weight: lighter;
 }
+
 .projectButton,
 .contactButton {
   font-size: 24px;
   font-weight: lighter;
   background: none;
-	color: inherit;
-	border: none;
-	padding: 0;
-	font: inherit;
-	cursor: pointer;
-	outline: inherit;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
 }
 
 #border {
@@ -132,6 +135,7 @@ a {
   font-size: 24px;
 
 }
+
 .bioHeader {
   margin-left: -82%;
   padding: 15px;
@@ -148,20 +152,24 @@ a {
   font-size: 35px;
   text-align: center;
 }
+
 .projectBar {
   display: inline;
   margin-left: 15%;
   width: auto;
 }
+
 /* PERSONAL WEB */
 .personalWeb {
   margin-top: 5%;
   margin-left: 6%;
   font-size: 24px;
 }
+
 .pWebDiv {
   margin-bottom: 45px;
 }
+
 .personalWebImage {
   margin-top: -4%;
   max-width: 20%;
@@ -170,9 +178,11 @@ a {
   margin-left: 20%;
   display: none;
 }
-.personalWeb:hover + .personalWebImage {
+
+.personalWeb:hover+.personalWebImage {
   display: block;
 }
+
 .personalWebImage:hover {
   display: block;
 }
@@ -182,9 +192,11 @@ a {
   margin-left: 6%;
   font-size: 24px;
 }
+
 .hexColorDiv {
   margin-bottom: 45px;
 }
+
 .hexColorImage {
   max-width: 20%;
   max-height: 20%;
@@ -193,9 +205,11 @@ a {
   margin-left: 25%;
   display: none;
 }
-.hexColor:hover + .hexColorImage {
+
+.hexColor:hover+.hexColorImage {
   display: block;
 }
+
 .hexColorImage:hover {
   display: block;
 }
@@ -205,9 +219,11 @@ a {
   margin-left: 6%;
   font-size: 24px;
 }
+
 .quizDiv {
   margin-bottom: 45px
 }
+
 .quizImage {
   max-width: 20%;
   max-height: 20%;
@@ -216,9 +232,11 @@ a {
   margin-left: 20%;
   display: none;
 }
-.quizWebsite:hover + .quizImage {
+
+.quizWebsite:hover+.quizImage {
   display: block;
 }
+
 .quizImage:hover {
   display: block;
 }
@@ -228,9 +246,11 @@ a {
   margin-left: 6%;
   font-size: 24px;
 }
+
 .quoteDiv {
   margin-bottom: 45px;
 }
+
 .quoteImage {
   max-width: 20%;
   max-height: 20%;
@@ -239,9 +259,11 @@ a {
   margin-left: 25%;
   display: none;
 }
-.quote:hover + .quoteImage {
+
+.quote:hover+.quoteImage {
   display: block;
 }
+
 .quoteImage:hover {
   display: block;
 }
@@ -251,9 +273,11 @@ a {
   margin-left: 6%;
   font-size: 24px;
 }
+
 .clickerDiv {
   margin-bottom: 45px;
 }
+
 .clickerImage {
   max-width: 20%;
   max-height: 20%;
@@ -262,9 +286,11 @@ a {
   margin-left: 25%;
   display: none;
 }
-.clicker:hover + .clickerImage {
+
+.clicker:hover+.clickerImage {
   display: block;
 }
+
 .clickerImage:hover {
   display: block;
 }
@@ -274,9 +300,11 @@ a {
   margin-left: 6%;
   font-size: 24px;
 }
+
 .placeholderDiv {
   margin-bottom: 45px
 }
+
 .placeholderImage {
   max-width: 20%;
   max-height: 20%;
@@ -285,9 +313,11 @@ a {
   margin-left: 20%;
   display: none;
 }
-.placeholder:hover + .placeholderImage {
+
+.placeholder:hover+.placeholderImage {
   display: block;
 }
+
 .placeholderImage:hover {
   display: block;
 }
@@ -328,9 +358,11 @@ a {
 }
 
 #contactHead {
-  margin-top: 20px;
-  font-size: 25px;
-  font-family: Arial;
+  padding-top: 4%;
+  margin-top: 12%;
+  margin-bottom: 1%;
+  font-size: 35px;
+  text-align: center;
 }
 
 .emailButton {
@@ -338,8 +370,8 @@ a {
   margin-top: 20px;
   color: black;
   background-color: #e9e9e9;
-  font-size: 15px;
-  padding: 5px 10px;
+  font-size: 20px;
+  padding: 8px 14px;
   text-align: center;
   font-weight: bold;
   border: 2px solid black;
@@ -361,6 +393,7 @@ a {
   background-color: #3c4464;
   color: white;
 }
+
 .footP {
   text-align: center;
   margin-top: 40%;
@@ -368,12 +401,16 @@ a {
 }
 
 @media only screen and (max-width: 620px) {
+
   /* For mobile phones: */
-  .bioHeader, .bio, .indexBox {
+  .bioHeader,
+  .bio,
+  .indexBox {
     width: 100%;
     margin-left: 0.5%;
     margin-top: 1%;
   }
+
   .header {
     width: 620px;
   }
@@ -383,6 +420,7 @@ a {
     max-height: max-content;
     text-align: center;
   }
+
   .bioHeader {
     text-align: left;
   }
@@ -394,6 +432,7 @@ a {
     border-top: 2px black solid;
     position: relative;
   }
+
   #pBody {
     width: 620px;
   }
