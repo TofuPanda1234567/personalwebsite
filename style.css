@@ -10,14 +10,13 @@
   background: #D7E5F0;
   width: 100vw;
   position: relative;
-  /* margin-bottom: 5%; */
+  margin-bottom: 45px;
 }
 
 .cBody {
   /* margin-top: 5%; */
   background: white;
   width: 100vw;
-  height: 100vh;
   position: relative;
 }
 
